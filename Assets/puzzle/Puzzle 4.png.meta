@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: 94b0b646d7c2ac249b416671fd93064c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puzzle 4_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2528.3333
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac8d29b62340a64f802d65b518fa7a6
+      internalID: 135948565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2528.3333
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3819ce0af937ad4dabbadceee2b6f22
+      internalID: -472668561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_2
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2528.3333
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b010d302afd904785eb22daa5fd0bd
+      internalID: 484391870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_3
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2528.3333
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93a6f2115dd705418eba20c7b2eaa19
+      internalID: -99946539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_4
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2528.3333
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c754c22bbc969e4596dfc0705117dda
+      internalID: 252048363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_5
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2528.3333
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60141fef270096447b49384cc184fcfe
+      internalID: -631976733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2023.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e0e34ecdbef1e42ba342a65cfe56c5
+      internalID: 1174260447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2023.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cd0879ee1c7a642bda9a9bc9ec6353
+      internalID: -534659764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2023.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3fe70258988f64ca4f57d0ee7691dc
+      internalID: 672107126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_9
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2023.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e2095c79973324e98702d958de5f2d
+      internalID: 77656744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_10
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2023.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a4e7a55105b240b1f2196b0f13032
+      internalID: 2043480085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_11
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2023.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2376fc7075f2ee428cc65498e02c73a
+      internalID: 950012974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1518.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd092b8a204b626418b07eac8b1b85a0
+      internalID: 1459953236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1518.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbf5a6d5d1c64489889c973ab0394e
+      internalID: 1822693370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_14
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1518.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8805a822aee21c41b67ca57c3d904b5
+      internalID: 1662082017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_15
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1518.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b856220399238914286c3405ec885cbb
+      internalID: 792077090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_16
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1518.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ec184aa817fe4ba05567b9f71d17b
+      internalID: -251960891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_17
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1518.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f589cf93de48440a0443da3b4d7476
+      internalID: -409091531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1013.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d792afc6798544b8bd69f9dd353a51
+      internalID: 20710613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1013.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed1f1cb0c1387440a8a0114f3a18346
+      internalID: -1768187988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_20
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1013.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52428b682f7331240a951f71dc61770e
+      internalID: 1509864486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_21
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1013.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f10e9eebee1674dacc9d95ee92404c
+      internalID: -1635788519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_22
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1013.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3604c9fa52bc6d4438d617939eaedd21
+      internalID: 1652157452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_23
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1013.3334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04073b6695c6d1b40a6e933a8618830d
+      internalID: -84373815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 508.33334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cecb2a4d37de354c80e1b816904a842
+      internalID: 1786550983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 508.33334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d40e69c7954ce41bb518fe995a3c50
+      internalID: -1881025594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_26
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 508.33334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485793489d1098948a2c3d3cb1af20b0
+      internalID: 1002405558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_27
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 508.33334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6e42335d297c42909a52aa30c091c
+      internalID: 533104326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_28
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 508.33334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979e4daef7382f84cb2de7bc55f127a3
+      internalID: 1617326979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_29
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 508.33334
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d4f12a4fb3eb348bdc6c082db3161f
+      internalID: -998754149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3.3333435
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c302745f6d3547a040d76886c89d6
+      internalID: 1577748946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_31
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3.3333435
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6795afe4d51aa81408870a22846427f6
+      internalID: 1553820243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3.3333435
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e753a478e5ba4aaed3be5b3a95674
+      internalID: 576309972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_33
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3.3333435
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edaee5da67f2ed4599ec635d7932168
+      internalID: 70193163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_34
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3.3333435
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084eea87fe60514bbeab6fcc6e6f594
+      internalID: -2101597643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle 4_35
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3.3333435
+        width: 800
+        height: 505.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e373956d8f8c5854caa2c7a9f9d8d179
+      internalID: -1748511107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Puzzle 4_0: 135948565
+      Puzzle 4_1: -472668561
+      Puzzle 4_10: 2043480085
+      Puzzle 4_11: 950012974
+      Puzzle 4_12: 1459953236
+      Puzzle 4_13: 1822693370
+      Puzzle 4_14: 1662082017
+      Puzzle 4_15: 792077090
+      Puzzle 4_16: -251960891
+      Puzzle 4_17: -409091531
+      Puzzle 4_18: 20710613
+      Puzzle 4_19: -1768187988
+      Puzzle 4_2: 484391870
+      Puzzle 4_20: 1509864486
+      Puzzle 4_21: -1635788519
+      Puzzle 4_22: 1652157452
+      Puzzle 4_23: -84373815
+      Puzzle 4_24: 1786550983
+      Puzzle 4_25: -1881025594
+      Puzzle 4_26: 1002405558
+      Puzzle 4_27: 533104326
+      Puzzle 4_28: 1617326979
+      Puzzle 4_29: -998754149
+      Puzzle 4_3: -99946539
+      Puzzle 4_30: 1577748946
+      Puzzle 4_31: 1553820243
+      Puzzle 4_32: 576309972
+      Puzzle 4_33: 70193163
+      Puzzle 4_34: -2101597643
+      Puzzle 4_35: -1748511107
+      Puzzle 4_4: 252048363
+      Puzzle 4_5: -631976733
+      Puzzle 4_6: 1174260447
+      Puzzle 4_7: -534659764
+      Puzzle 4_8: 672107126
+      Puzzle 4_9: 77656744
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
